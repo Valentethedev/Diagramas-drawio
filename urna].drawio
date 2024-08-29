@@ -7,7 +7,7 @@
         <mxCell id="tm_tPIgrOeYtnqWqFzLi-1" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;URNA POR ARTUR VALENTE&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="-140" width="530" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tm_tPIgrOeYtnqWqFzLi-2" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;TAREFAS&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;ul&gt;&lt;li&gt;Validar título&lt;/li&gt;&lt;li&gt;Habilitar voto&lt;/li&gt;&lt;li&gt;Votar: Em branco&lt;/li&gt;&lt;li&gt;Votar: Confirmar&lt;/li&gt;&lt;li&gt;Imprimir relatório&lt;/li&gt;&lt;li&gt;Finalizar sessão&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tm_tPIgrOeYtnqWqFzLi-2" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;TAREFAS&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;ul&gt;&lt;li&gt;Validar título = mesário&lt;/li&gt;&lt;li&gt;Habilitar voto = mesário&lt;/li&gt;&lt;li&gt;Votar: Em branco = eleitor&lt;/li&gt;&lt;li&gt;Votar: Confirmar = eleitor&lt;/li&gt;&lt;li&gt;Imprimir relatório&lt;/li&gt;&lt;li&gt;Finalizar sessão = eleitor&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="-10" width="530" height="220" as="geometry" />
         </mxCell>
         <mxCell id="tm_tPIgrOeYtnqWqFzLi-3" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;LOGICA&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
