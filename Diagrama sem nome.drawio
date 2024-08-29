@@ -1,9 +1,76 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.8">
   <diagram name="Página-1" id="AWzPYnOHjzFOyUzCL4Jn">
-    <mxGraphModel dx="880" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="880" dy="1637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="jSIatLXLyQmO8l8hsQH5-1" value="USUÁRIO" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="120" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jSIatLXLyQmO8l8hsQH5-2" value="Converter o arquivo de musica para o novo formato" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="425" y="-40" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jSIatLXLyQmO8l8hsQH5-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="jSIatLXLyQmO8l8hsQH5-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="150" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jSIatLXLyQmO8l8hsQH5-4" value="Baixar o arquivo de música e salvar em biblioteca" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="425" y="50" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="jSIatLXLyQmO8l8hsQH5-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="jSIatLXLyQmO8l8hsQH5-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="160" as="sourcePoint" />
+            <mxPoint x="435" y="10" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jSIatLXLyQmO8l8hsQH5-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="jSIatLXLyQmO8l8hsQH5-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="170" as="sourcePoint" />
+            <mxPoint x="415" y="95" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jSIatLXLyQmO8l8hsQH5-7" value="Gerenciar a biblioteca da aplicação" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="425" y="130" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="jSIatLXLyQmO8l8hsQH5-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="jSIatLXLyQmO8l8hsQH5-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="180" as="sourcePoint" />
+            <mxPoint x="435" y="175" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jSIatLXLyQmO8l8hsQH5-9" value="Gravar em um CD uma lista de músicas" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="420" y="210" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="jSIatLXLyQmO8l8hsQH5-10" value="Carregar uma lista de músicas no formato MP3 para ipod ou MP3 player" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="430" y="290" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="jSIatLXLyQmO8l8hsQH5-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="jSIatLXLyQmO8l8hsQH5-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="200" as="sourcePoint" />
+            <mxPoint x="400" y="335" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="270" y="201" />
+              <mxPoint x="336" y="201" />
+              <mxPoint x="336" y="335" />
+              <mxPoint x="420" y="335" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jSIatLXLyQmO8l8hsQH5-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.036;entryY=0.357;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="jSIatLXLyQmO8l8hsQH5-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="200" as="sourcePoint" />
+            <mxPoint x="385" y="395" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="240" y="220" />
+              <mxPoint x="306" y="220" />
+              <mxPoint x="306" y="395" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jSIatLXLyQmO8l8hsQH5-13" value="Converter uma música do formato MP3 para AAC e vice e versa" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="425" y="370" width="165" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
